@@ -134,9 +134,6 @@
 
 		<!-- Footer -->
 			<footer id="footer">
-				<div class="copyright">
-					&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. 
-				</div>
 			</footer>
 
 		<!-- Scripts -->
